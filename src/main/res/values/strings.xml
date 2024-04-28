@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">Fillmore Weight Tracking App</string>
+<string name="login">Login</string>
+<string name="create_account">Create Account</string>
+<string name="username">Username</string>
+<string name="password">Password</string>
+</resources>
